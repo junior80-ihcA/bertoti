@@ -1,0 +1,6 @@
+Nome: Fulano de Tal
+Telefone: 012-9999-7444
+Data de Nascimento: 10/01/2000
+Gênero da pessoa: masculino
+Nome(s) do(s) serviço(s) prestado(s): corte de cabelo
+Nome(s) do(s) produto(s) usado(s): shampoo e condicionador
